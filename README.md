@@ -1,6 +1,6 @@
 # Freight Rate Prediction - Machine Learning Project
 
-This repository contains the baseline machine learning solution and documentation for the Freight Rate Prediction assessment.
+This repository contains the baseline machine learning solution and documentation for the Freight Rate Prediction challenge.
 
 ## Repository Contents
 
